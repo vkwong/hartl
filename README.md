@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: "hello, world!"
+# Ruby on Rails Tutorial
 
-This is the first application for the
+These are the applications created for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
